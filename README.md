@@ -1,3 +1,5 @@
+Note: Since the api i used for the tutorial was of hhtp://, github has blocked requests so it can't display the movies suer search
+
 This is my first 'project', it is a simple movie searchig app which i followed along on from a youtube video. 
 The main goal of this project was to familirise myself with react and javascript,
 I don't claim i made this app myself as its only for my self learning, but i hope to one day be able to make myself without help.
